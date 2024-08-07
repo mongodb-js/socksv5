@@ -1,3 +1,4 @@
+'use strict';
 var Parser = require('../lib/server.parser');
 
 var EventEmitter = require('events').EventEmitter,
