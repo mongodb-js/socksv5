@@ -1,7 +1,7 @@
 {
   "name": "@mongodb-js/socksv5",
   "description": "SOCKS protocol version 5 server and client implementations for node.js",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "author": "Brian White <mscdex@mscdex.net>",
   "dependencies": {
     "ip-address": "^10.2.0"
