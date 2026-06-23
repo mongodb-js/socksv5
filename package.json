@@ -4,7 +4,7 @@
   "version": "0.0.10",
   "author": "Brian White <mscdex@mscdex.net>",
   "dependencies": {
-    "ip-address": "^9.0.5"
+    "ip-address": "^10.2.0"
   },
   "engines": {
     "node": ">=0.10.0"
